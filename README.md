@@ -35,7 +35,7 @@
 
 
 ### top 실행 예제 이미지
-![출처: 네이버 지식백과](https://terms.naver.com/imageDetail.naver?cid=59321&docId=4125861&imageUrl=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F4938_000_1%2F20170705212456131_V9D3Q4JJL.jpg%2Fka38_331_i1.jpg%3Ftype%3Dm4500_4500_fst_n%26wm%3DY&categoryId=59321)
+![출처: 네이버 지식백과](./스크린샷 2024-06-01 080527.png)
 
 ## 2. ps
 프로세스의 현재 상태를 출력하는 명령어
