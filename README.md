@@ -83,5 +83,5 @@
 
 
 ### ps aux(시스템의 모든 프로세스 확인) 실행 예제
-![ps aux 실행 예제 이미지](./ps.png)
+![ps aux 실행 예제 이미지](./ps_aux.png)
 ###### [출처: 네이버 지식백과](https://terms.naver.com/entry.naver?docId=4125773&cid=59321&categoryId=59321#TABLE_OF_CONTENT3)
